@@ -216,6 +216,12 @@ header{
     .slider .list .item .content p{
         margin-left: 0px;
     }
+    .slider {
+         margin-top: -70px;
+    }
+    .header {
+        height: 70px;
+    }
 }
 @media all and (max-width: 767px) {
     .slider .list .item .content{
