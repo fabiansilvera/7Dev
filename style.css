@@ -17,7 +17,7 @@ svg{
 }
 :root{
     --width-default: min(1200px, 90vw);
-    --diameter: 1432px;
+    --diameter: 1232px;
 }
 .logo img{
     width: 150px;
